@@ -1,0 +1,14 @@
+D:\Programacion\Trabajos\Ejercicios C#\ejercicio_3\bin\Debug\net6.0\ejercicio_3.exe
+D:\Programacion\Trabajos\Ejercicios C#\ejercicio_3\bin\Debug\net6.0\ejercicio_3.deps.json
+D:\Programacion\Trabajos\Ejercicios C#\ejercicio_3\bin\Debug\net6.0\ejercicio_3.runtimeconfig.json
+D:\Programacion\Trabajos\Ejercicios C#\ejercicio_3\bin\Debug\net6.0\ejercicio_3.dll
+D:\Programacion\Trabajos\Ejercicios C#\ejercicio_3\bin\Debug\net6.0\ref\ejercicio_3.dll
+D:\Programacion\Trabajos\Ejercicios C#\ejercicio_3\bin\Debug\net6.0\ejercicio_3.pdb
+D:\Programacion\Trabajos\Ejercicios C#\ejercicio_3\obj\Debug\net6.0\ejercicio_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\Trabajos\Ejercicios C#\ejercicio_3\obj\Debug\net6.0\ejercicio_3.AssemblyInfoInputs.cache
+D:\Programacion\Trabajos\Ejercicios C#\ejercicio_3\obj\Debug\net6.0\ejercicio_3.AssemblyInfo.cs
+D:\Programacion\Trabajos\Ejercicios C#\ejercicio_3\obj\Debug\net6.0\ejercicio_3.csproj.CoreCompileInputs.cache
+D:\Programacion\Trabajos\Ejercicios C#\ejercicio_3\obj\Debug\net6.0\ejercicio_3.dll
+D:\Programacion\Trabajos\Ejercicios C#\ejercicio_3\obj\Debug\net6.0\ref\ejercicio_3.dll
+D:\Programacion\Trabajos\Ejercicios C#\ejercicio_3\obj\Debug\net6.0\ejercicio_3.pdb
+D:\Programacion\Trabajos\Ejercicios C#\ejercicio_3\obj\Debug\net6.0\ejercicio_3.genruntimeconfig.cache
